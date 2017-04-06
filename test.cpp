@@ -1,0 +1,6 @@
+
+//	ƒeƒXƒgŠÖ”
+void testfunction()
+{
+
+}
